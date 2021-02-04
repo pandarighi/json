@@ -6,7 +6,7 @@
                 "email": "ravi@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "date": "03 Feb 2021",
-                "payment": "Rp 2.000.000",
+                "payment": 2.000.000,
                 "gender" : "male",
                 "phone": {
                     "mobile": "+91 0000000000",
