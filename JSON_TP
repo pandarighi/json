@@ -174,13 +174,6 @@
             "AreaInsentif": "BDG-02",
             "Target": 0.000000,
             "Acv": 0.000000
-        },
-        {
-            "SlpCode": 25,
-            "SlpName": "ADE HERI",
-            "AreaInsentif": "BDG-02",
-            "Target": 0.000000,
-            "Acv": 0.000000
         }
     ]
 }
