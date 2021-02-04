@@ -1,5 +1,7 @@
 {
-    "contacts": [
+    "Error": 0,
+    "Message": "Success",
+    "Data": [
         {
             "SlpCode": -1,
             "SlpName": "-No Sales Employee-",
