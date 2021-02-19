@@ -13,8 +13,8 @@
             "SlpCode": 1,
             "SlpName": "LIA MULYATI",
             "AreaInsentif": "BDG-02",
-            "Target": 0.000000,
-            "Acv": 0.000000
+            "Target": 200000,
+            "Acv": 150000.500
         },
         {
             "SlpCode": 2,
